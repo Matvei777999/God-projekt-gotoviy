@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27041112/README.1.md)
 - **Бот:** [@bot_bot](https://t.me/Forbesok_bot)
 - **Презентация:** [Презентации](https://docs.google.com/presentation/d/17HR7XWfTB2teCteOjAd43pUB_zYKc4_bG82K-G6d0p4/edit?usp=sharing)
 
