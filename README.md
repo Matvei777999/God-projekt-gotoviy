@@ -1,4 +1,4 @@
-- **Бот:** [@bot_bot](https://t.me/Forbesok_bot)
+- **Бот:** [@Forbesok_bot](https://t.me/Forbesok_bot)
 - **Презентация:** [Презентации](https://docs.google.com/presentation/d/17HR7XWfTB2teCteOjAd43pUB_zYKc4_bG82K-G6d0p4/edit?usp=sharing)
 
 Telegram-бот с RPG механикой, где игроки сражаются с врагами в лесу, прокачивают характеристики и покупают снаряжение.
